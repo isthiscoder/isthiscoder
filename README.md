@@ -7,4 +7,4 @@ Using modern technologies to design end-to-end intelligent systems, Bitslyf expl
 
 Learn → Build → Execute → Repeat.
 
-Just visit -  https://bitslyf.com   
+Just visit - bitslyf.com   
