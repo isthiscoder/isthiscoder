@@ -1,1 +1,1 @@
-Hey there , I'm Siddharth Singh I'm working in the field of Science , Technology & Research. I'm Deploying & Documenting end to end [Projects](https://isthiscoder.github.io/Projects/) Visit my [Lab](https://isidd.dev) for Updates.
+Hey there , I'm Siddharth Singh I'm working in the field of Science , Technology , Business & Research. I'm Deploying & Documenting end to end [Projects](https://projects.isidd.dev) Visit my [Lab](https://isidd.dev) for Updates.
